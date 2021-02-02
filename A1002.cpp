@@ -1,4 +1,4 @@
-//pat¼×¼¶1002
+//patA1002
 #include<iostream>
 #include<string
 #include <iomanip> 
