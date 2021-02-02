@@ -1,4 +1,4 @@
-//pat¼×¼¶1001
+//patA1001
 #include<iostream>
 #include<string>
 using namespace std;
