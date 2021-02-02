@@ -1,4 +1,4 @@
-//pat乙级1032 挖掘机技术哪家强
+//patB1032 
 #include<iostream>
 #include<string>
 #include <iomanip> 
